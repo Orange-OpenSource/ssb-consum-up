@@ -1,0 +1,11 @@
+# GIT Ignore file for the SSB-CONSUM-UP project
+
+# General files
+*.*~
+*.fasl
+
+# From build
+/man/*
+
+# From demo
+/virtdb
