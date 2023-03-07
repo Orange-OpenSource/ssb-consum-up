@@ -1,11 +1,16 @@
 # GIT Ignore file for the SSB-CONSUM-UP project
 
-# General files
+# Recursively keep directory structure
+!**/.git*
+
+# Default ignored files and directories
 *.*~
 *.fasl
+.env
 
-# From build
-/man/*
+# From build (recursive)
+/bin/**
+/man/**
 
 # From demo
 /virtdb

@@ -29,9 +29,15 @@ abstract: >-
   software enabling end-to-end Semantic Web data flow architecture
   with a Semantic Service Bus (SSB) approach.
 keywords:
-  - ontology
-  - networks
-  - incident-management
+  - semantic-web
+  - linked-data
+  - RDF
+  - stream-processing
+  - SPARQL
+  - message-bus
+  - kafka
+  - json-ld
+  - LISP
 license: BSD-4-Clause
-version: v0.0.0
-date-released: '2023-02-20'
+version: v0.9.0
+date-released: '2023-03-07'
