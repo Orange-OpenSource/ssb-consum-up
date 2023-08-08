@@ -39,5 +39,23 @@ keywords:
   - json-ld
   - LISP
 license: BSD-4-Clause
-version: v0.9.0
-date-released: '2023-03-07'
+version: v0.1.0
+date-released: '2023-03-17'
+preferred-citation:
+  type: conference-paper
+  authors:
+  - orcid: 'https://orcid.org/0000-0001-5887-899X'
+    affiliation: Orange
+    given-names: Lionel
+    family-names: Tailhardat
+  - orcid: 'https://orcid.org/0000-0001-5639-1504'
+    given-names: Yoan
+    family-names: Chabot
+    affiliation: Orange
+  - orcid: 'https://orcid.org/0000-0003-0457-1436'
+    affiliation: EURECOM
+    given-names: Raphaël
+    family-names: Troncy
+  journal: "4th International Workshop on Knowledge Graph Construction (KGC)"
+  title: "Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems"
+  year: 2023

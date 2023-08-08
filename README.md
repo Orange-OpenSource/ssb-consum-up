@@ -89,6 +89,25 @@ The SSB-CONSUM-UP handles incoming Kafka messages in JSON-LD syntax of the follo
 
 The *value* part is typically derived from a set of N-Quads assertions related to the same subject.
 
+## Citation
+
+If you use this software in a scientific publication, please cite:
+
+> Lionel Tailhardat, Yoan Chabot, and Raphaël Troncy. 2023.
+> Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems.
+> In 4th International Workshop on Knowledge Graph Construction (KGC).
+
+BibTex format:
+
+```bibtex
+@inproceedings{noria-di-2023,
+  title = {{Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems}},
+  booktitle = {{4th International Workshop on Knowledge Graph Construction (KGC)}},
+  author = {{Lionel Tailhardat} and {Yoan Chabot} and {Rapha\"el Troncy}},
+  year = {2023}
+}
+```
+
 ## Copyright
 
 Copyright (c) 2022-2023, Orange / EURECOM. All rights reserved.
